@@ -30,6 +30,8 @@
 <img align = "center" alt = "ReactNative" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 </div>
 
+![HomePage](https://github.com/bielxrd/bielxrd/assets/129539000/ebd46d45-29c2-4fbe-92f7-6b6707b15b0b)
+
 
 
 
