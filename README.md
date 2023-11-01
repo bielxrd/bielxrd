@@ -3,7 +3,7 @@
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-dias-ramos-926b86263/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gabriel.dramoss/)
 
-![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=bielxrd&show_icons=true&theme=tokyonight)
+![Gabriel GitHub Stats](https://github-readme-stats.vercel.app/api?username=bielxrd&show_icons=true&theme=gruvbox)
 
 ### 📚 Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na faculdade, onde tenho a oportunidade de me conectar no mundo da tecnologia e desenvolvimento de software. Estou entusiasmado em aprender e aplicar meus conhecimentos para criar projetos e realizar grandes feitos.
 
