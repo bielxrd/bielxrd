@@ -5,7 +5,6 @@
 
 ![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=bielxrd&count_private=true&show_icons=true&theme=ayu-mirage)
 
-### 📚 Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na faculdade, onde tenho a oportunidade de me conectar no mundo da tecnologia e desenvolvimento de software. Estou entusiasmado em aprender e aplicar meus conhecimentos para criar projetos e realizar grandes feitos.
 
 ### 💻 No meu espaço aqui no GitHub, você encontrará projetos que refletem minha jornada de aprendizado e dedicação à programação. Adoro explorar diferentes linguagens e tecnologias, sempre em busca de desafios interessantes e oportunidades de crescimento. 
 
